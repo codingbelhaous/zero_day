@@ -2,4 +2,6 @@
 
 ## Learning Objectives
 
-In this project u will be able to creat a repositery and set it up with your local computer 
+* Create and setup your Git and GitHub account
+
+* Hello Ubuntu
